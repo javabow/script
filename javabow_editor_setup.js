@@ -10,6 +10,7 @@ var editor_config = {
                     "insertdatetime media nonbreaking save table contextmenu directionality",
                     "emoticons template paste textcolor colorpicker textpattern"
                   ],
+                  toolbar_mode: 'floating',
                   toolbar: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media",
                   relative_urls: false,
                   min_width: 600,
